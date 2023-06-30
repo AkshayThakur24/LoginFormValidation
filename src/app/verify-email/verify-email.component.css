@@ -1,0 +1,19 @@
+.verify-email {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .verify-email h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .verify-email p {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  
